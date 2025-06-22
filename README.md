@@ -19,7 +19,23 @@ I'll be uploading my code and outputs for each week's assignments here as I prog
 
 ## 📁 Repository Structure
 
-The solutions will be following a simple, organized format and will be replaced here shortly.
+The repository is organized as follows:
+```css
+Week-X/
+├── Topic-Name/
+│   ├── Exercise-1/
+│   │   ├── Code/
+│   │   └── Output/
+│   ├── Exercise-2/
+│   │   ├── Code/
+│   │   └── Output/
+│   └── ...
+└── Another-Topic/
+    ├── Exercise-1/
+    │   ├── Code/
+    │   └── Output/
+    └── ...
+```
 
 ---
 
@@ -27,7 +43,7 @@ The solutions will be following a simple, organized format and will be replaced 
 
 | Week  | Skill           | Status      |
 |-------|------------------|-------------|
-| Week 1 | Design Patterns, DSA | ⏳ Ongoing |
+| Week 1 | Design Patterns, DSA | ✅ Completed |
 | Week 2 | PL SQL, Spring Core  | 🔜 Upcoming     |
 > More updates will be added here as the program progresses.
 

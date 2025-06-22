@@ -1,0 +1,15 @@
+Q: What is the base case and recursive case here?
+
+A:
+Base cases:
+P(0) = 1000
+P(1) = 1500
+
+Recursive case:
+P(n) = P(n-1) + P(n-2)
+
+Q: What's the difference between plain recursion and optimized?
+
+A:
+- Plain recursion recomputes values, slow for large n (O(2^n))
+- Optimized memoization caches results (O(n)), much faster

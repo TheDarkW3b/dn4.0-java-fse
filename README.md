@@ -44,7 +44,8 @@ Week-X/
 | Week  | Skill           | Status      |
 |-------|------------------|-------------|
 | Week 1 | Design Patterns, DSA | ✅ Completed |
-| Week 2 | PL SQL, Spring Core  | 🔜 Upcoming     |
+| Week 2 | PL SQL, TDD  | ✅ Completed     |
+| Week 3 | Spring Core & Maven, Spring Data JPA | 🔜 Upcoming |
 > More updates will be added here as the program progresses.
 
 ---

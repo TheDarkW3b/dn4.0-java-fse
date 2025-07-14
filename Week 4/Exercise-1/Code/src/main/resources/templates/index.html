@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Spring Fortune Cookie</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: #fff8e1;
+            padding: 50px;
+            text-align: center;
+        }
+
+        h1 {
+            color: #ff9800;
+        }
+
+        button {
+            padding: 12px 25px;
+            font-size: 18px;
+            background-color: #ff9800;
+            color: white;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+
+        button:hover {
+            background-color: #fb8c00;
+        }
+
+        #message {
+            margin-top: 30px;
+            font-size: 20px;
+            font-style: italic;
+            color: #6d4c41;
+        }
+    </style>
+</head>
+<body>
+    <h1>🥠 Spring Fortune Cookie</h1>
+    <p>Click the cookie to receive today's spring-powered wisdom!</p>
+    <button onclick="showFortune()">Crack the Cookie</button>
+    <div id="message"></div>
+
+    <script>
+        function showFortune() {
+            fetch("/fortune")
+                .then(response => response.text())
+                .then(data => {
+                    document.getElementById("message").innerText = `"${data}"`;
+                });
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: spring-exercise-2

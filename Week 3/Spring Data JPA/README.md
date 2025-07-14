@@ -20,3 +20,5 @@ The system supports data modeling, CRUD operations, query methods, projections, 
 | 8        | Projections                            | Interface- and class-based projections for selective field queries          |
 | 9        | Custom Data Source Config              | Externalize and customize datasource configs including multiple sources     |
 | 10       | Hibernate-Specific Features            | Use advanced Hibernate annotations, batch processing, and tuning            |
+
+* Note: `Exercise-7` solution is merged

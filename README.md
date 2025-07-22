@@ -47,7 +47,8 @@ Week-X/
 | Week 2 | PL SQL, TDD  | ✅ Completed     |
 | Week 3 | Spring Core & Maven, Spring Data JPA | ✅ Completed |
 | Week 4 | Spring REST | ✅ Completed |
-| Week 5 | Microservices | 🔜 Upcoming |
+| Week 5 | Microservices | ✅ Completed |
+| Week 6 | React | 🔜 Upcoming |
 > More updates will be added here as the program progresses.
 
 ---

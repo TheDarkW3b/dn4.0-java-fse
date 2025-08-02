@@ -48,7 +48,8 @@ Week-X/
 | Week 3 | Spring Core & Maven, Spring Data JPA | ✅ Completed |
 | Week 4 | Spring REST | ✅ Completed |
 | Week 5 | Microservices | ✅ Completed |
-| Week 6 | React | 🔜 Upcoming |
+| Week 6 | React | ✅ Completed |
+| Week 7 | React | 🔜 Upcoming |
 > More updates will be added here as the program progresses.
 
 ---

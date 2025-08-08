@@ -49,7 +49,8 @@ Week-X/
 | Week 4 | Spring REST | ✅ Completed |
 | Week 5 | Microservices | ✅ Completed |
 | Week 6 | React | ✅ Completed |
-| Week 7 | React | 🔜 Upcoming |
+| Week 7 | React | ✅ Completed |
+| Week 8 | GIT | 🔜 Upcoming |
 > More updates will be added here as the program progresses.
 
 ---

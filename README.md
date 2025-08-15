@@ -13,7 +13,7 @@ I'll be uploading my code and outputs for each week's assignments here as I prog
 - **Superset ID**: 6367406  
 - **Program**: Digital Nurture 4.0 – Java FSE Deep Skilling  
 - **Duration**: 8 Weeks  
-- **Status**: In Progress  
+- **Status**: ✅ Completed
 
 ---
 
@@ -50,8 +50,7 @@ Week-X/
 | Week 5 | Microservices | ✅ Completed |
 | Week 6 | React | ✅ Completed |
 | Week 7 | React | ✅ Completed |
-| Week 8 | GIT | 🔜 Upcoming |
-> More updates will be added here as the program progresses.
+| Week 8 | GIT | ✅ Completed |
 
 ---
 
